@@ -15,7 +15,7 @@ echo "======================================"
 # Variables
 # ---------------------------------------------------------
 DOTFILES_DIR="$HOME/DOTFILES2D"
-REPO_URL="https://github.com/FrameBard/DOTFILES2D.git"
+REPO_URL="https://github.com/gustja/dotfiles"
 
 ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
 P10K_DIR="$ZSH_CUSTOM/themes/powerlevel10k"
